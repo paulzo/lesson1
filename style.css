@@ -6,8 +6,7 @@ h1{
 	background-color:#2F4F4F;
 	color:white;
 	height:100%;
-	margin-left: 10px;
-	margin-top: 10px;
+
 }
 #leftColumn{
 	background-color:#B4CDCD;
@@ -16,4 +15,9 @@ h1{
 .pagination-centered{
 	text-align: center;
 	margin-left:150px 
+}
+
+#margin{
+	margin-left: 10px;
+	margin-top: 10px;
 }
