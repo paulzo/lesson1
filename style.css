@@ -17,7 +17,8 @@ h1{
 	margin-left:150px 
 }
 
-#margin{
-	margin-left: 10px;
+.paddingness{
+	margin-left: 15px;
 	margin-top: 10px;
+	margin-right: 15px;
 }
