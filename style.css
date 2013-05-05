@@ -5,7 +5,9 @@ h1{
 #rightColumn{
 	background-color:#2F4F4F;
 	color:white;
+	height:100%;
 }
 #leftColumn{
 	background-color:#B4CDCD;
+	height:100%;
 }
