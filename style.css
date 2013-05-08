@@ -24,7 +24,7 @@ h1{
 	margin-right: 15px;
 }
 .one{
-	color:gray;
+	color:white;
 
 }
 .blue{
@@ -43,5 +43,9 @@ h1{
 #jjim{
 	background-color: #0000FF;
 	color:white;
+
+}
+#jjjim{
+	float-left:;
 
 }
