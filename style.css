@@ -54,6 +54,7 @@ h1{
 }
 .lSide{
 	float:left;
+	margin-left: 15px;
 }
 .rSide{
 	float:right;
