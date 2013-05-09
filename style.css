@@ -52,3 +52,9 @@ h1{
 #jjjjim{
 	float: left;
 }
+.lSide{
+	float:left;
+}
+.rSide{
+	float:right;
+}
