@@ -71,4 +71,6 @@ h3{
 }
 #barneyStintson{
 	background-image:url('/images/moonWalk.jpg');
+	background-size:80px 60px;
+background-repeat:no-repeat;
 }
