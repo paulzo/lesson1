@@ -6,13 +6,13 @@ h3{
 	color:white;
 }
 
-#rightColumn{
+#leftColumn{
 	background-color:#1763A6;
-	
+	width:100%;
 	height:100%;
 
 }
-#leftColumn{
+#rightColumn{
 	background-color:#000000;
 	height:100%;
 
