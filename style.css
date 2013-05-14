@@ -4,7 +4,13 @@ h1{
 
 h3{
 	color:white;
+
+
+#Centre{
+	text-align:center;
+
 }
+
 #searchBar{
 	margin-bottom:50px;
 }
