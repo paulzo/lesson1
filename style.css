@@ -80,6 +80,7 @@ h3{
 }
 .rSide{
 	float:right;
+	margin-right:150px;
 }
 .barneyStintson{
 	background-image:url('/images/moonWalk.jpg');
