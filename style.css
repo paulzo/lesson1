@@ -3,10 +3,10 @@ h1{
 }
 
 h3{
-	color:white;
+	color:white; 
 }
 #nav{
-	width:100%;
+	width:50%;
 
 }
 
@@ -25,7 +25,7 @@ h3{
 
 #topContainer{
 	background-color:#54BF83;
-	height:10%;
+	height:12%;
 	width:93.24%;
 } 
 
