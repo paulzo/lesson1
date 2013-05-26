@@ -23,7 +23,7 @@ h3{
 .pull-left{
 	float:left;
 	margin-left: 700px;
-}
+} 
 
 
 
@@ -31,7 +31,7 @@ h3{
 #topContainer{
 	background-color:#54BF83;
 	height:14%;
-	width:93.24%;
+	width:100%;
 } 
 
 #bottomContainer{
