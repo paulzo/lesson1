@@ -34,25 +34,35 @@
 		
 		<script>
 			$(document).ready(function(){
+  			$("#boot").click(function(){
+          $("#iimage").hide()
+        });	
 				
-				// Tooltips
-				$('[title]').tooltip({
-					placement: 'top',
-					container: 'body'
-				});	
-
-				// Tabs
-				$('.demoTabs a, .demoTabs2 a').click(function (e) {
-					e.preventDefault();
-					$(this).tab('show');
-					$('.fullcalendar').fullCalendar('render'); // Refresh jQuery FullCalendar for hidden tabs
-				})
-
 			});
 		</script>
 
 	</head>
 	<body>
-		
+		<div class="row">
+      <div class="span4">
+        <button id="boot" class="btn"> Bookfast </button> 
+
+      </div>
+
+      <div id="iimage" class="span4">
+        <img src="/img/template_logo.png">
+      </div>
+
+
+
+     
+
+
+
+
+    </div>
+
+
+
 	</body>
 </html>
