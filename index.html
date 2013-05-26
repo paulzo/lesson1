@@ -37,10 +37,7 @@
   			$("#boot").click(function(){
           if($("#iimage").is(":visible"))
           {
-            $("#iimage").hide({
-              duration:800,
-              easing:'easeOutBack'
-            });
+            $("#iimage").hide(800,'easeOutBack');
           } 
           else{
             $("#iimage").show('slide');
