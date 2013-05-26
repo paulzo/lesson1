@@ -35,7 +35,13 @@
 		<script>
 			$(document).ready(function(){
   			$("#boot").click(function(){
-          $("#iimage").hide()
+          if($("#iimage").is(":visible"))
+          {
+            $("#iimage").hide();
+          } 
+          else{
+            $("#iimage").show();
+          }
         });	
 				
 			});
