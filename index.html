@@ -34,8 +34,11 @@
 		
 		<script>
 			$(document).ready(function(){
+        $('p').hide();
+
   			$("#boot").click(function(){
-          $("p").hide().slidetoggle(300);
+
+          $(this).next().slidetoggle(300);
 
         });
 				
